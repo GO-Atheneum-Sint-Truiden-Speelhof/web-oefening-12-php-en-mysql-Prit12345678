@@ -1,4 +1,4 @@
-# Web-Php-MySQL - Sven
+# Web-Php-MySQL
 
 ## Start
 
